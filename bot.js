@@ -26,7 +26,7 @@ const BINANCE_SQUARE_URL =
   "https://www.binance.com/bapi/composite/v1/public/pgc/openApi/content/add";
 
 const GROQ_URL = "https://api.groq.com/openai/v1/chat/completions";
-const GROQ_MODEL = "llama3-70b-8192";
+const GROQ_MODEL = "llama-3.3-70b-versatile";
 
 // 15 horarios distribuidos a lo largo del día (hora:minuto)
 const SCHEDULE_TIMES = [
